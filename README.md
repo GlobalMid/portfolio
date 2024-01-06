@@ -27,6 +27,7 @@ List of data analysis projects.
 - Diabetes Prediction Healthcare Data
 
   This is my 3rd project that i worked on During my Internship at PSYLIQ. In this i Used SQL (Microsoft SQL Server) To Analyze the dataset explore it and find important connection and links betweens crucial data points for Diabetes Healthcare.
+  (Dataset can't be provided Due to Company privacy) 
   [Github Link](https://github.com/GlobalMid/Diabetes-Data-SQL-project-)
 
   ![Diabetes Prediction Healthcare Data](1sql.png)
