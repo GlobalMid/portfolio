@@ -41,4 +41,4 @@ Mention your educational background and any relevant coursework.
 -Google Data Analytics certified
 
 ## Contact
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out to me at [Gmail](mailto:usamakhan4254@gmail.com).
