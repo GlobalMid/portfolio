@@ -17,11 +17,13 @@ Accomplished and detail-focused Google Data Analyst certified professional, prof
 List and describe your data analysis projects with links to the corresponding repositories.
 - Human Resource Data Analysis.
 
-  This is one of my project that i made during my internship at PSYLIQ using Excel to explore prepare and clean data and   
-  used Power BI to display my KPI making it easier to understand and work with.
+  This is my 1st project that i made during my internship at PSYLIQ using Excel to explore prepare and clean data and used Power BI to display my KPI making it easier to understand and work with.
   ![Human Resource Data Analysis Project](DashboardHR1.png)
 - Employee HR Metrics
-- Diabetes Prediction healthcare data
+
+  This is my 2nd Project that i worked during my intership at PSYLIQ where i used tools such as Excel and PowerBI to make Dashboard for HR metrics i had to join clean combine data from different resources and surveys.
+  ![Employee HR Metrics Data Analysis Project](DashboardHR2.png)
+- Diabetes Prediction Healthcare Data
 
 ## Skills
  Data Analysis Skills.
