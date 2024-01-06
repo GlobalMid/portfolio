@@ -1,23 +1,3 @@
-# Data Analyst
-
-### Eduction 
-ADP CS, Masters in Computer Science 
-
-### Work Experience 
-Data Analyst @PSYLQ 
-- Big Impact Project 1!
-- Big Impact Project 2!
-- Big Impact project 3!
-
-
-### Projects
-- Bike sales excel Project
-- Covid Public Data (exploring Data and Visualisation) 
-- Nashville Housing (data Cleaning) 
-
-
-###Certifactions 
--Google Data Analytics certified
 
 # Usama Ali Data Analyst Portfolio
 
@@ -40,18 +20,18 @@ List and describe your data analysis projects with links to the corresponding re
 - Diabetes Prediction healthcare data
 
 ## Skills
-Highlight your data analysis skills.
-SQL (Microsoft SQL Server)
-• Excel (VLookup, HLookup, XLookup Conditional 
-Formatting, Pivot Tables, Pivot Charts, Dashboards)
-• Microsoft Power BI (Importing Data, Power Query, 
+ Data Analysis Skills.
+- SQL (Microsoft SQL Server)
+- Excel (VLookup, HLookup, XLookup Conditional 
+  Formatting, Pivot Tables, Pivot Charts, Dashboards)
+- Microsoft Power BI (Importing Data, Power Query, 
 DAX, Dashboards, Reports)
-• Sample Size Determination
-• Data Cleansing
-• Data Integrity 
-• Data Aggregation
-• Data Ethics
-• Tableau (Dashboards)
+- Sample Size Determination
+- Data Cleansing
+- Data Integrity 
+- Data Aggregation
+- Data Ethics
+- Tableau (Dashboards)
 
 
 ## Education
