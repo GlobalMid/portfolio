@@ -31,16 +31,34 @@ Welcome to my data analyst portfolio! Explore my projects, skills, and experienc
 - [Contact](#contact)
 
 ## About Me
-Include a brief introduction about yourself.
+Accomplished and detail-focused Google Data Analyst certified professional, proficient in data analysis, data visualization, and database management through diverse personal projects. Demonstrates a robust ability to transform intricate datasets into valuable insights, facilitating well-informed business decision-making.
 
 ## Projects
 List and describe your data analysis projects with links to the corresponding repositories.
+- HR Data Analysis
+- Employee HR Metrics
+- Diabetes Prediction healthcare data
 
 ## Skills
 Highlight your data analysis skills.
+SQL (Microsoft SQL Server)
+• Excel (VLookup, HLookup, XLookup Conditional 
+Formatting, Pivot Tables, Pivot Charts, Dashboards)
+• Microsoft Power BI (Importing Data, Power Query, 
+DAX, Dashboards, Reports)
+• Sample Size Determination
+• Data Cleansing
+• Data Integrity 
+• Data Aggregation
+• Data Ethics
+• Tableau (Dashboards)
+
 
 ## Education
 Mention your educational background and any relevant coursework.
+
+## Certifactions 
+-Google Data Analytics certified
 
 ## Contact
 Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
