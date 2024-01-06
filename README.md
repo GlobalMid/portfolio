@@ -17,10 +17,12 @@ List and describe your data analysis projects with links to the corresponding re
 - Human Resource Data Analysis.
 
   This is my 1st project that i made during my internship at PSYLIQ. Where i used Excel to explore prepare and clean data and used Power BI to display my KPI making it easier to understand and work with.
+  (Dataset can't be provided Due to Company privacy) 
   ![Human Resource Data Analysis Project](DashboardHR1.png)
 - Employee HR Metrics
 
   This is my 2nd Project that i worked during my intership at PSYLIQ. Where i used tools such as Excel and PowerBI to make Dashboard for HR metrics i had to join clean combine data from different resources and surveys.
+   (Dataset can't be provided Due to Company privacy) 
   ![Employee HR Metrics Data Analysis Project](DashboardHR2.png)
 - Diabetes Prediction Healthcare Data
   This is my 3rd project that i worked on During my Internship at PSYLIQ. In this i Used SQL (Microsoft SQL Server) To Analyze the dataset explore it and find important connection and links betweens crucial data points for Diabetes Healthcare.
@@ -38,7 +40,7 @@ List and describe your data analysis projects with links to the corresponding re
      [Github Link](https://github.com/GlobalMid/Covid-Public-data-)
      ![Covid Public Data ](covidtab.png)
 
-     - Bike Sales Analysis
+    - Bike Sales Analysis
 
       Employed Excel to enhance data set clarity through cleaning processes Generated pivot tables and pivot charts to extract valuable insights (on the basis of income, commute, age brackets) Designed and tailored a dashboard for bike sale.
      [Github Link](https://github.com/GlobalMid/Covid-Public-data-)
