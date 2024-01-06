@@ -26,7 +26,7 @@ List and describe your data analysis projects with links to the corresponding re
   This is my 3rd project that i worked on During my Internship at PSYLIQ. In this i Used SQL (Microsoft SQL Server) To Analyze the dataset explore it and find important connection and links betweens crucial data points for Diabetes Healthcare.
   [Github Link](https://github.com/GlobalMid/Diabetes-Data-SQL-project-)
 
-  ![Diabetes Prediction Healthcare Data](Screenshot(616).png)
+  ![Diabetes Prediction Healthcare Data](1sql.png)
 
 ## Skills
  Data Analysis Skills.
