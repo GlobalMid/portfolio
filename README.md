@@ -13,7 +13,7 @@ Welcome to my data analyst portfolio! Explore my projects, skills, and experienc
 Accomplished and detail-focused Google Data Analyst certified professional, proficient in data analysis, data visualization, and database management through diverse personal projects. Demonstrates a robust ability to transform intricate datasets into valuable insights, facilitating well-informed business decision-making.
 
 ## Projects
-List and describe your data analysis projects with links to the corresponding repositories.
+List of data analysis projects.
 - Human Resource Data Analysis.
 
   This is my 1st project that i made during my internship at PSYLIQ. Where i used Excel to explore prepare and clean data and used Power BI to display my KPI making it easier to understand and work with.
