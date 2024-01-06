@@ -69,4 +69,4 @@ List of data analysis projects.
 
 
 ## Contact
-Feel free to reach out to me at [Gmail](mailto:usamakhan4254@gmail.com)          [LinkedIn](https://www.linkedin.com/in/usama-ali-analyst/)
+Feel free to reach out to me at [Gmail](mailto:usamakhan4254@gmail.com)  [LinkedIn](https://www.linkedin.com/in/usama-ali-analyst/)
