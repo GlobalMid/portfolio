@@ -44,7 +44,7 @@ List of data analysis projects.
 - Bike Sales Analysis
 
   Employed Excel to enhance data set clarity through cleaning processes Generated pivot tables and pivot charts to extract valuable insights (on the basis of income, commute, age brackets) Designed and tailored a dashboard for bike sale.
-  [Github Link](https://github.com/GlobalMid/Covid-Public-data-)
+  [Github Link](https://github.com/GlobalMid/Bike-sales-Analysis-)
   ![Bike Sales Analysis ](Bikesalesexcelproject.png)
 
 - Nashville Housing Data
