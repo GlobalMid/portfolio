@@ -7,7 +7,6 @@ Welcome to my data analyst portfolio! Explore my projects, skills, and experienc
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
-- [Education](#education)
 - [Contact](#contact)
 
 ## About Me
@@ -17,13 +16,17 @@ Accomplished and detail-focused Google Data Analyst certified professional, prof
 List and describe your data analysis projects with links to the corresponding repositories.
 - Human Resource Data Analysis.
 
-  This is my 1st project that i made during my internship at PSYLIQ using Excel to explore prepare and clean data and used Power BI to display my KPI making it easier to understand and work with.
+  This is my 1st project that i made during my internship at PSYLIQ. Where i used Excel to explore prepare and clean data and used Power BI to display my KPI making it easier to understand and work with.
   ![Human Resource Data Analysis Project](DashboardHR1.png)
 - Employee HR Metrics
 
-  This is my 2nd Project that i worked during my intership at PSYLIQ where i used tools such as Excel and PowerBI to make Dashboard for HR metrics i had to join clean combine data from different resources and surveys.
+  This is my 2nd Project that i worked during my intership at PSYLIQ. Where i used tools such as Excel and PowerBI to make Dashboard for HR metrics i had to join clean combine data from different resources and surveys.
   ![Employee HR Metrics Data Analysis Project](DashboardHR2.png)
 - Diabetes Prediction Healthcare Data
+  This is my 3rd project that i worked on During my Internship at PSYLIQ. In this i Used SQL (Microsoft SQL Server) To Analyze the dataset explore it and find important connection and links betweens crucial data points for Diabetes Healthcare.
+  [Github Link](https://github.com/GlobalMid/Diabetes-Data-SQL-project-)
+
+  ![Diabetes Prediction Healthcare Data](Screenshot (616).png)
 
 ## Skills
  Data Analysis Skills.
@@ -31,7 +34,7 @@ List and describe your data analysis projects with links to the corresponding re
 - Excel (VLookup, HLookup, XLookup Conditional 
   Formatting, Pivot Tables, Pivot Charts, Dashboards)
 - Microsoft Power BI (Importing Data, Power Query, 
-DAX, Dashboards, Reports)
+  DAX, Dashboards, Reports)
 - Sample Size Determination
 - Data Cleansing
 - Data Integrity 
@@ -40,11 +43,6 @@ DAX, Dashboards, Reports)
 - Tableau (Dashboards)
 
 
-## Education
-Mention your educational background and any relevant coursework.
-
-## Certifactions 
--Google Data Analytics certified
 
 ## Contact
-Feel free to reach out to me at [Gmail](mailto:usamakhan4254@gmail.com).
+Feel free to reach out to me at [Gmail](mailto:usamakhan4254@gmail.com)[LinkedIn](www.linkedin.com/in/usama-ali-analyst).
