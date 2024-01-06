@@ -49,6 +49,7 @@ List of data analysis projects.
   ![Bike Sales Analysis ](Bikesalesexcelproject.png)
 
 - Nashville Housing Data
+
   In this project i worked on Addressing Data Quality in Nashville Housing Data. Utilizing SQL for Data Cleaning and Rectifying Issues. Cleaning and Fixing Data Anomalies in Nashville Housing Dataset.
   [Github Link](https://github.com/GlobalMid/Housing-Data-cleaning-)
 
