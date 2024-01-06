@@ -16,6 +16,7 @@ Accomplished and detail-focused Google Data Analyst certified professional, prof
 ## Projects
 List and describe your data analysis projects with links to the corresponding repositories.
 - HR Data Analysis
+  ![Human Resource Data Analysis Project](DashboardHR1.png)
 - Employee HR Metrics
 - Diabetes Prediction healthcare data
 
